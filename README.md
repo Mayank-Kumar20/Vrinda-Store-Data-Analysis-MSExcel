@@ -17,4 +17,3 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 ■ Which channel is contributing to maximum sales?
 
 ## Dashboard
-![200w](https://github.com/Mayank-Kumar20/Vrinda-Store-Data-Analysis-MSExcel/assets/117710651/f147c586-b64c-4d34-a602-3e10f45bc7e5)
