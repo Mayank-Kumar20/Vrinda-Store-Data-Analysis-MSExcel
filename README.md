@@ -17,7 +17,7 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 ■ Which channel is contributing to maximum sales?
 
 ## Dashboard
-
+https://github.com/Mayank-Kumar20/Vrinda-Store-Data-Analysis-MSExcel/assets/117710651/1207c2b2-1f92-4ba8-915a-64d6d00c989a
 ## Sample Insights
 ➜ Women are more likely to buy compared to men (~65%)
 
